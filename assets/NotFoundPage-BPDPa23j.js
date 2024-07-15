@@ -1,0 +1,2 @@
+import{j as o,N as t}from"./index-DatKeztj.js";import{u as e}from"./useTranslation-va2joCJA.js";const a="_box_vxpcw_1",c="_whoops_vxpcw_16",p="_pageNotFound_vxpcw_24",x="_btnHome_vxpcw_32",s={box:a,whoops:c,pageNotFound:p,btnHome:x},r=()=>{const{t:n}=e();return o.jsxs("div",{className:s.box,children:[o.jsxs("p",{className:s.whoops,children:[n("whoops"),"!"]}),o.jsx("p",{className:s.pageNotFound,children:n("page_not_found")}),o.jsx(t,{to:"/",className:s.btnHome,children:n("home")})]})},d=()=>o.jsx(r,{});export{d as default};
+//# sourceMappingURL=NotFoundPage-BPDPa23j.js.map
